@@ -1,0 +1,32 @@
+`{
+  "name": "tickytackytoe",
+  "version": "1.0.0",
+  "description": "This is my tictactoe game created with CSS HTML and JavaScript, featuring CSS Grid",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alertNiKole/TickyTackyToe.git"
+  },
+  "keywords": [
+    "css",
+    "http",
+    "css",
+    "grid",
+    "tic",
+    "tac",
+    "toe",
+    "nikolemaxwell"
+  ],
+  "author": "NiKole Maxwell",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/alertNiKole/TickyTackyToe/issues"
+  },
+  "homepage": "https://github.com/alertNiKole/TickyTackyToe#readme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
